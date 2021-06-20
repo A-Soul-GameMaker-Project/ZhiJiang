@@ -1,0 +1,13 @@
+{
+    "editor.snippetSuggestions": "bottom",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "files.exclude": {       
+        "**/*.rpyc": true,
+        ".idea": true,
+        "game/saves": true,
+        "game/cache": true,
+        "game/se": true,
+        "**/*.otf": true,
+        "**/*.ttf": true,
+    },
+}
